@@ -61,6 +61,3 @@ Para concluir a trilha e receber o certificado de **Fundamentos da Arte para Jog
 Caso tenha dúvidas sobre o conteúdo ou exercícios, entre em contato através dos canais:
 * **Telegram:** @leticiasati
 * **Discord:** leticias8636
-
----
-*Este material é de uso interno e educacional para os membros da Conway e estudantes da USP.*
