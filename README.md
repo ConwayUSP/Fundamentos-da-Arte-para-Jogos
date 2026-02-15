@@ -36,7 +36,7 @@ A trilha está dividida em 3 módulos principais:
 ### Módulo 2: Composição
 * Camadas de Composição (Foreground, Center of Interest, Background).
 * Ângulos de Visão e Posicionamento.
-* Técnicas: Framing (enquadramento), Regra dos Terços, Linhas Guia e Parallax.
+* Técnicas: Framing (enquadramento), Contraste, Regra dos Terços, Linhas Guia e Parallax.
 
 ### Módulo 3: Conceitos Finais
 * Espaço Negativo e Espaço Positivo.
