@@ -2,6 +2,12 @@
 
 Bem-vindo ao repositório da trilha de **Fundamentos da Arte para Jogos** do grupo **Conway**. Este material didático foi desenvolvido para introduzir os conceitos essenciais da arte aplicada ao desenvolvimento de jogos, desde a teoria das cores até a composição de cenários e clareza visual.
 
+Foi colocado a versão PDF dos Materiais da trilha neste repositório, porém visto que o GitHub diminui um pouco a qualidade de certas imagens/headings, **recomenda-se fortemente** que o material seja lido através do Docs pelo seguintes links: 
+
+**Material Didático**: https://docs.google.com/document/d/16VmjCZc0o4vIH92XSCfdMkretLhA318W8CUJsKKjXa0/edit?usp=drivesdk
+
+**Avaliação**: https://docs.google.com/document/d/1zBtr9Y9YVth7ltelBqrj55K7-i-m3jv4_lhfQ7dXUpY/edit?tab=t.0
+
 ## 📖 Sobre a Trilha
 
 A arte em jogos vai muito além de desenhos bonitos; ela está intrinsecamente relacionada à jogabilidade e à narração da história. Esta trilha aborda como escolhas de paletas de cores, posicionamento de elementos e hierarquia visual influenciam a estética e a funcionalidade de um jogo.
