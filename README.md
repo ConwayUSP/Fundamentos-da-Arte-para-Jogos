@@ -8,7 +8,8 @@ Bem-vindo ao repositório da trilha de **Fundamentos da Arte para Jogos** do gru
 
 **Avaliação**: https://docs.google.com/document/d/1zBtr9Y9YVth7ltelBqrj55K7-i-m3jv4_lhfQ7dXUpY/edit?tab=t.0
 
-*OBS:* Devido ao tamanho grande do arquivo PDF do material didático, foi notado que pode ocorrer um erro de "unable to render code block" ao tentar acessá-lo. Caso isso ocorra, apenas **recarregue a página** que o PDF deve ser renderizado e mostrado normalmente. Caso o erro persista mesmo após isso, pedimos que visualizem o conteúdo da trilha através dos links do Docs mesmo. (também é possível baixar o PDF para acessá-lo localmente caso queiram)
+*OBS:* Devido ao tamanho grande do arquivo PDF do material didático, foi notado que pode ocorrer um erro de "unable to render code block" ao tentar acessá-lo. Caso isso ocorra, apenas **recarregue a página** que o PDF deve ser renderizado e mostrado normalmente. 
+Caso o erro persista mesmo após isso, pedimos que visualizem o conteúdo da trilha através dos links do Docs mesmo. (também é possível baixar o PDF para acessá-lo localmente caso queiram)
 
 ## 📖 Sobre a Trilha
 
